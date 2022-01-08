@@ -1,2 +1,1 @@
-# demo-project
-demo todo-app
+VERSION: TODO-APP-v1.0-SNAPSHOT
